@@ -1,13 +1,13 @@
 # Business Analytics Case Portfolio  
 
-## 📌 Overview  
+## Overview  
 This repository is a curated portfolio of **business analytics case studies and strategy projects** that demonstrate the application of **structured frameworks, data-driven reasoning, and advanced analytical techniques** to solve real-world business problems.  
 
 Each project blends **quantitative analysis** (e.g., forecasting, CLV, price optimization, regression models) with **strategic recommendations**, showcasing both technical skills and business acumen.  
 
 ---
 
-## 📂 Repository Contents  
+## Repository Contents  
 
 ### 1. **Bass Diffusion Model**  
 - Focus: Forecasting adoption of Ford Hybrid Cars.  
@@ -41,7 +41,7 @@ Each project blends **quantitative analysis** (e.g., forecasting, CLV, price opt
 
 ---
 
-## 🛠️ Tools & Techniques  
+## Tools & Techniques  
 This portfolio leverages both **quantitative models** and **business frameworks**:  
 - **Analytics & ML:** Logistic Regression, CLV models, Diffusion models, CART, segmentation.  
 - **Programming & Tools:** R, Python, Enginius, Excel.  
@@ -50,7 +50,7 @@ This portfolio leverages both **quantitative models** and **business frameworks*
 
 ---
 
-## 🎯 Key Takeaways  
+## Key Takeaways  
 - Demonstrates **end-to-end analytics workflow** — from data wrangling to business recommendations.  
 - Combines **technical depth** (modeling, forecasting, optimization) with **managerial insights**.  
 - Covers a variety of domains: **subscription models, pricing, customer segmentation, forecasting, sentiment analysis**.  
@@ -58,7 +58,7 @@ This portfolio leverages both **quantitative models** and **business frameworks*
 
 ---
 
-## 👤 Author  
+## Author  
 Prepared by **Rohan Chawla**  
 Business Analytics Professional | Marketing & Strategy Enthusiast  
 Passionate about bridging **data science and business strategy** to create actionable insights.  
